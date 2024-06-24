@@ -12,7 +12,7 @@ A dynamic and engaging quiz application built using React.js. Navigate through q
 
 1. Clone this repository to your local machine.<br>
     ```
- https://github.com/Manba-chauhan/react-QuizApp.git
+    https://github.com/Manba-chauhan/react-QuizApp.git
    
 1. Install the necessary dependencies using npm install. <br>
    ```
