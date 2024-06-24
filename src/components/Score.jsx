@@ -6,7 +6,7 @@ const Score = () => {
   const { score } = location.state;
 
   return (
-    <div className="bg-gradient-to-r from-blue-300 via-purple-300 to-pink-300 text-black w-full h-screen flex justify-center items-center">
+    <div className="bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 text-black w-full h-screen flex justify-center items-center">
       <div className="bg-white shadow-2xl p-8 md:p-14 rounded-lg max-w-lg mx-4 md:mx-auto text-center">
         <h1 className="text-3xl font-bold mb-6">
           Thank You for Completing the Quiz!
