@@ -34,6 +34,9 @@ A dynamic and engaging quiz application built using React.js. Navigate through q
 - Array Methods: For handling question and option data.
 
 ## Screenshots 🖼️
+![StartPage](https://github.com/Manba-chauhan/react-QuizApp/assets/113258238/34a9913c-e004-427e-b694-35f022aaa8da)
+![QuizPage](https://github.com/Manba-chauhan/react-QuizApp/assets/113258238/053d1a7e-d3a1-4954-91a5-bd78f2ddf0c6)
+![ThankYouPage](https://github.com/Manba-chauhan/react-QuizApp/assets/113258238/9019e69f-83e6-403a-bf3b-374b46983e70)
 
 
 ## Contributing 🤝
