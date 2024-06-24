@@ -1,8 +1,42 @@
-# React + Vite
+# React Quiz App 📝
+A dynamic and engaging quiz application built using React.js. Navigate through questions, select answers, and get your score at the end.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features ✨
+- 📋 Fetch questions and options from an array of objects.
+- ⏭️ Navigate through questions using "Next" and "Previous" buttons.
+- ✅ Ensure answer selection before moving to the next question.
+- 🔄 Change answers by revisiting previous questions.
+- 📊 Submit your answers and receive an alert with your score percentage.
+  
+## How to Use 📋
 
-Currently, two official plugins are available:
+1. Clone this repository to your local machine.<br>
+    ```
+    https://github.com/Manba-chauhan/react-QuizApp.git
+   
+1. Install the necessary dependencies using npm install. <br>
+   ```
+   cd react-QuizApp
+   npm install
+   
+1. Run the app with npm start. <br>
+   ```
+    npm run dev
+   
+1. Start managing your tasks and enjoy a clutter-free day!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Begin the quiz, select answers, navigate through questions, and submit to see your score.
+  
+## Technologies Used 📦
+
+- React: For building the user interface.
+- State Management: Using React's useState hook.
+- Array Methods: For handling question and option data.
+
+## Screenshots 🖼️
+
+
+## Contributing 🤝
+If you want to contribute or improve this project, feel free to fork it and submit a pull request. Your contributions are welcome and highly appreciated!
+
+Happy quizzing! ✅
