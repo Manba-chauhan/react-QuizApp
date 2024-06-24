@@ -36,7 +36,7 @@ Array Methods: For handling question and option data.
 ## Screenshots 🖼️
 
 
-Contributing 🤝
+## Contributing 🤝
 If you want to contribute or improve this project, feel free to fork it and submit a pull request. Your contributions are welcome and highly appreciated!
 
 Happy quizzing! ✅
