@@ -29,9 +29,9 @@ A dynamic and engaging quiz application built using React.js. Navigate through q
   
 ## Technologies Used 📦
 
-React: For building the user interface.
-State Management: Using React's useState hook.
-Array Methods: For handling question and option data.
+- React: For building the user interface.
+- State Management: Using React's useState hook.
+- Array Methods: For handling question and option data.
 
 ## Screenshots 🖼️
 
