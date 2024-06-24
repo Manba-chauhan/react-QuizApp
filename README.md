@@ -1,7 +1,7 @@
-### Quiz App 📝
+# React Quiz App 📝
 A dynamic and engaging quiz application built using React.js. Navigate through questions, select answers, and get your score at the end.
 
-### Features ✨
+## Features ✨
 - 📋 Fetch questions and options from an array of objects.
 - ⏭️ Navigate through questions using "Next" and "Previous" buttons.
 - ✅ Ensure answer selection before moving to the next question.
@@ -12,7 +12,7 @@ A dynamic and engaging quiz application built using React.js. Navigate through q
 
 1. Clone this repository to your local machine.<br>
     ```
-   git clone https://github.com/Manba-chauhan/ToDoApp.git
+ https://github.com/Manba-chauhan/react-QuizApp.git
    
 1. Install the necessary dependencies using npm install. <br>
    ```
@@ -28,6 +28,7 @@ A dynamic and engaging quiz application built using React.js. Navigate through q
 - Begin the quiz, select answers, navigate through questions, and submit to see your score.
   
 ## Technologies Used 📦
+
 React: For building the user interface.
 State Management: Using React's useState hook.
 Array Methods: For handling question and option data.
